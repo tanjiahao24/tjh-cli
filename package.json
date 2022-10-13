@@ -1,6 +1,6 @@
 {
   "name": "tjh-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/Errors-King/tjh-cli/issues"
   },
-  "homepage": "https://github.com/Errors-King/tjh-cli#readme"
+  "homepage": "https://github.com/Errors-King/tjh-cli#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.4",
+    "open": "^8.4.0"
+  }
 }
