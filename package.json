@@ -1,0 +1,23 @@
+{
+  "name": "tjh-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tjh": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Errors-King/tjh-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Errors-King/tjh-cli/issues"
+  },
+  "homepage": "https://github.com/Errors-King/tjh-cli#readme"
+}
