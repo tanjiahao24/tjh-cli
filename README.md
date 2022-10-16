@@ -6,4 +6,4 @@
 
 ## 在 /lib/config/frameworkConfig.js 中可以配置自己的仓库
 
-使用方式 tjh create <projectName>
+使用方式 tjh create projectName
